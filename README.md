@@ -1,7 +1,9 @@
 # Fashion-mninst
 Fashion-mninst( CNN + Graphical model )
 
-Kaggle에 올라와 있는 fashion 이미지 데이터를  mnist 로 변환한 데이터 셋 입니다. 
+Kaggle에 올라와 있는 간단한 데이터 셋입니다. 
+
+fashion 이미지 데이터를  mnist 로 변환한 데이터 셋
 
 https://github.com/zalandoresearch/fashion-mnist
 
