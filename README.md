@@ -15,3 +15,6 @@ https://github.com/zalandoresearch/fashion-mnist
 <p align="center">
 <img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/fashoin-mnist.PNG" />
 </p>
+
+
+해당 그림은 fashion-mnist 데이터를 불러온 결과 입니다.
