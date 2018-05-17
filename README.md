@@ -13,5 +13,5 @@ https://github.com/zalandoresearch/fashion-mnist
 
 
 <p align="center">
-<img height="600" src="https://github.com/MAKU315/Master-project/blob/master/data-mining/boxplot.PNG" />
+<img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/fashoin-mnist.PNG" />
 </p>
