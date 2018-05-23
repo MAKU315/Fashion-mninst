@@ -30,7 +30,7 @@ epoch 10 까지 만 학습을 하였고,
 각 step 마다의 train, validation accuracy와 loss를 확인 해 보았습니다. 
 
 <p align="center">
-<img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/Model%04.png" />
+<img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/Model%2004.png" />
 </p>
 
 
