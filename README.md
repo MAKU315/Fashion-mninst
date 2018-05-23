@@ -20,7 +20,7 @@ https://github.com/zalandoresearch/fashion-mnist
 해당 그림은 fashion-mnist 데이터를 불러온 결과 입니다.
 
 
-
+#
 ### CNN model 및 Confusion matrix
 model 폴더의 코드를 실행하면 epoch마다의 accuracy와 loss, confusion matrix를 저장 및 확인 할수 있습니다. 
 
