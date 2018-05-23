@@ -18,3 +18,26 @@ https://github.com/zalandoresearch/fashion-mnist
 
 
 해당 그림은 fashion-mnist 데이터를 불러온 결과 입니다.
+
+
+
+model 폴더의 코드를 실행하면 epoch마다의 accuracy와 loss, confusion matrix를 저장 및 확인 할수 있습니다. 
+
+다음은 예시 입니다.
+
+epoch 10 까지 만 학습을 하였고, 
+
+각 step 마다의 train, validation accuracy와 loss를 확인 해 보았습니다. 
+
+<p align="center">
+<img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/Model%04.png" />
+</p>
+
+
+Confusion matrix는 sklearn 라이브러리를 활용하였습니다. 
+
+우리는 학습된 모덱에서 Shirt와 t-shirt, coat를 잘 맞추지 못하는 것을 알 수 있습니다. 
+
+<p align="center">
+<img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/Confusion%20matrix4.png" />
+</p>
