@@ -1,5 +1,5 @@
 # Fashion-mninst
-Fashion-mninst( CNN + Graphical model )
+Fashion-mninst( CNN + Visualization )
 
 Kaggle에 올라와 있는 간단한 데이터 셋입니다. 
 
