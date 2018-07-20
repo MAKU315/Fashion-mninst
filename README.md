@@ -42,3 +42,46 @@ Confusion matrix는 sklearn 라이브러리를 활용하였습니다.
 <p align="center">
 <img height="600" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/Confusion%20matrix4.png" />
 </p>
+
+
+# Visualization
+
+다음은 Network model을 적용해 본 결과 이다.
+
+크게 세 가지 방법을 고려했다.
+
+1. Correlation 2. score function( Lasso ) 3. Euclidean distance(KNN) 
+
+Network model 활용하여, 세 가지 척도 별 시각화를 진행 했다. 
+
+Input image, Scaling image, Last feature map과 FC-layer 를 시각화에 이용해 보았다.
+
+확실히 FC-layer의 정보를 활용했을 때, Network 구조로 표현했을 때 가장 뛰어난 시각화를 보여주었다.
+
+Correlaiton기반 척도를 사용했을때 의류종류 별 로 뭉쳤다. 
+
+이때 betweeness와 degree가 높은 Node(이미지)경우 실제로 CNN 모델이 분류하지 못하는 이미지와 일치 한다는 것을 알 수 있었다.
+
+CNN의 Classification 모델을 좀 더 활용할 수 있는 방안을 고안 할 수 있었다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
