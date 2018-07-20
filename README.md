@@ -66,21 +66,21 @@ CNN의 Classification 모델을 좀 더 활용할 수 있는 방안을 고안 �
 
 
 ## Correlation : Last feature map vs FC layer
-<div >
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_1152.png" />
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_128.png" />
+<div align='center'>
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_1152.png" />
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_128.png" />
 </div>
 
 ## Score function : Last feature map vs FC layer
-<div >
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_1152.png" />
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_128.png" />
+<div align='center'>
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_1152.png" />
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_128.png" />
 </div>
 
 ## Euclidean Distance : Last feature map vs FC layer
-<div >
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_1152.png" />
-<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_128.png" />
+<div align='center'>
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_1152.png" />
+<img height="300" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_128.png" />
 </div>
 
 
