@@ -65,8 +65,23 @@ Correlaiton기반 척도를 사용했을때 의류종류 별 로 뭉쳤다.
 CNN의 Classification 모델을 좀 더 활용할 수 있는 방안을 고안 할 수 있었다.
 
 
+## Correlation : Last feature map vs FC layer
+<div >
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_1152.png" />
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/cor_cnn_128.png" />
+</div>
 
+## Score function : Last feature map vs FC layer
+<div >
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_1152.png" />
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/lasso_cnn2_128.png" />
+</div>
 
+## Euclidean Distance : Last feature map vs FC layer
+<div >
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_1152.png" />
+<img height="200" src="https://github.com/MAKU315/Fashion-mninst/blob/master/img/knn_cnn2_128.png" />
+</div>
 
 
 
